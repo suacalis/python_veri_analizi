@@ -2,7 +2,7 @@
 
 The Carpentries'in **"Data Analysis and Visualization in Python for Ecologists"** dersinin Türkçe ve etkileşimli uyarlaması. Kod hücreleri tarayıcı içinde [Pyodide](https://pyodide.org) ile çalışır; kurulum gerekmez.
 
-**▶ Dersi açın:** https://KULLANICI-ADI.github.io/python-dersi/
+**▶ Dersi açın:** [(https://suacalis.github.io/python_veri_analizi/)](https://suacalis.github.io/python_veri_analizi/)
 
 > Not: GitHub'da `index.html` dosyasına tıklamak yalnızca kaynak kodu gösterir. Dersi okumak ve kodları çalıştırmak için yukarıdaki GitHub Pages bağlantısını kullanın.
 
